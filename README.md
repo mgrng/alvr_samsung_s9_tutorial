@@ -2,6 +2,8 @@ Tutorial on how to set up ALVR+SteamVR for an Samsung Galaxy S9+, including Gear
 
 If you only want to watch videos or do things without a GearVR controller, consider https://github.com/alvr-org/PhoneVR?tab=readme-ov-file#installation as the setup is much more simple. You may still need to install/update Gear VR Services.
 
+Please take care when looking for .apk files online, and upload them through https://www.virustotal.com/gui/home/upload if you are unsure. VirusTotal can sometimes come up with false positives, so Google the detections to see what type of detection they are before proceeding.
+
 Last updated 2024-11-23.
 
 # Requirements
